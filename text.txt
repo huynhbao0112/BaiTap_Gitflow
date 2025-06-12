@@ -1,0 +1,4 @@
+2. Tạo nhánh (branch) và thực hiện thay đổi cơ bản [ 5đ ]:
+  - Tạo một nhánh mới từ nhánh chính (thường là main hoặc master).
+  - Thực hiện một số thay đổi cơ bản trong mã nguồn Project.
+  - Commit và đẩy nhánh của bạn lên repository trên GitHub.
